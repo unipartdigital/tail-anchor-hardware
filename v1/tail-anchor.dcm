@@ -1,0 +1,29 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP AG9903LP
+D 3.3 volt Power over Ethernet module (3.6W)
+$ENDCMP
+#
+$CMP DWM1000
+D Ultra wide band RF module With ranging location capabilities
+K DWM1000,Decawave,RF,ranging,UWB
+F https://www.decawave.com/sites/default/files/resources/dwm1000-datasheet-v1.3.pdf
+$ENDCMP
+#
+$CMP KSZ8081MNX
+D 10BASE-T/100BASE-TX PHY with MII Support, QFN-32
+K ETH PHY MII
+F http://ww1.microchip.com/downloads/en/DeviceDoc/KSZ8081MNX-RNB.pdf
+$ENDCMP
+#
+$CMP MC3630
+D 3 axis accelerometer, ultra-low power
+K accelerometer, ultra-low power, 3 axis
+F https://mcubemems.com/wp-content/uploads/2019/11/MC3630-Datasheet-APS-048-0047v1.5.pdf
+$ENDCMP
+#
+$CMP TPS2121
+F https://www.ti.com/lit/ds/symlink/tps2120.pdf
+$ENDCMP
+#
+#End Doc Library

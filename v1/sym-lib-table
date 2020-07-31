@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name tail-anchor)(type Legacy)(uri ${KIPRJMOD}/tail-anchor.lib)(options "")(descr ""))
+)
