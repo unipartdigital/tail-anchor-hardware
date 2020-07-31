@@ -1,0 +1,6 @@
+,,,,,,,,,,
+,,,,,,,,,,
+Mechanical Components:,,,,,,,,,,
+,,,,,,,,,,
+Item,Qty,Reference(s),Value,LibPart,Footprint,Datasheet,MFR,MPN,SPN,SPR,Comments
+1,0.002,HP1,"GPVOUS 0.1"" 8x20mm",,Cut 8x20mm section,https://www.mouser.co.uk/datasheet/2/48/TGP_1000VOUS-EN-1534519.pdf,Bergquist,GPVOUS-0.100-01-0816,951-GPVOUS-10001-816,Mouser,Mount under U5 as per Silvertel datasheet
